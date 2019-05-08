@@ -22,7 +22,7 @@ git push origin hexo  //push到Github项目的hexo分支上
 ```
 完成之后的效果图为 
 
-![你想输入的替代文字](1.png)
+![我是效果图](1.png)
 
 这样你的github项目中就会多出一个Hexo分支，这个就是用于多终端同步关键的部分。
 #### 2.另一终端完成clone和push更新
