@@ -10,7 +10,6 @@ tags: [hexo,github,多端同步]
 
 #### 1. 在其中一个终端操作，push本地文件夹Hexo中的必要文件到yourname.github.io的hexo分支上
 在利用Github+Hexo搭建自己的博客时，新建了一个Hexo的文件夹，并进行相关的配置，这部分主要是将这些配置的文件托管到Github项目的分支上，其中只托管部分用于多终端的同步的文件，如完成的效果图所示：
-
 ```
 git init  //初始化本地仓库
 git add source //将必要的文件依次添加，有些文件夹如npm install产生的node_modules由于路径过长不好处理，所以这里没有用`git add .`命令了，而是依次添加必要文件，如下图所示
