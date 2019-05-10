@@ -67,6 +67,9 @@ menu:
   - page: archive
     directory: archives/
     icon: fa-archive
+  - page: history
+    directory: history/
+    icon: fa-book
   - page: about
     directory: about/
     icon: fa-user

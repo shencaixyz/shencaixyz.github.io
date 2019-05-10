@@ -2,71 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3868b70a-0a49-414f-9d9a-c81f38d95001" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/languages/de-DE.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/languages/en.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/languages/es-ES.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/languages/fr-FR.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/languages/ko.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/languages/ru.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/languages/zh-CN.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/languages/zh-TW.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_partial/after_footer.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_partial/comments.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_partial/footer.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_partial/head.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_partial/helpers.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_partial/mathjax.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_partial/mathjax2.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_partial/paginator.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_partial/post_nav.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_partial/tag.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_partial/totop.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_partial/wordcount.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_widget/category.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_widget/links.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_widget/recent_comments.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_widget/recent_posts.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_widget/search.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/_widget/tag.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/archive.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/base-without-sidebar.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/base.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/index.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/page.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/post.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/single-column.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/layout/timeline.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/css/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/css/donate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/css/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/donate/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/img/AliPayQR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/img/BTCQR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/img/WeChatQR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/img/alipay.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/img/bitcoin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/img/github.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/img/like.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/img/paypal.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/img/wechat.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/js/codeblock-resizer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/js/donate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/js/fancybox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/js/gitment.browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/js/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/js/share.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/js/smartresize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/maupassant/source/js/totop.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/maupassant" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,12 +22,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="LICENSE" value="1" />
-          <entry key="gitignore" value="5" />
+          <entry key="gitignore" value="6" />
           <entry key="html" value="1" />
           <entry key="ico" value="1" />
           <entry key="json" value="1" />
-          <entry key="md" value="1" />
-          <entry key="yml" value="4" />
+          <entry key="md" value="5" />
+          <entry key="yml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -99,30 +35,56 @@
           <entry key="HTML" value="1" />
           <entry key="Image" value="1" />
           <entry key="JSON" value="1" />
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="YAML" value="4" />
+          <entry key="Markdown" value="5" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="YAML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="yml" value="6" />
+          <entry key="md" value="26" />
+          <entry key="yml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="YAML" value="6" />
+          <entry key="Markdown" value="26" />
+          <entry key="YAML" value="10" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/laravel-授权策略.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/2019/05/08/hexo-github多端同步/index.html">
+        <entry file="file://$PROJECT_DIR$/themes/maupassant/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1139" selection-start-column="1085" selection-end-column="1139" />
+            <state relative-caret-position="354">
+              <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/history/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -134,6 +96,7 @@
       <find>lang</find>
       <find>en</find>
       <find>post_asset_folder</find>
+      <find>timeline</find>
       <find>ico</find>
     </findStrings>
   </component>
@@ -145,12 +108,14 @@
       <list>
         <option value="$PROJECT_DIR$/source/CNAME" />
         <option value="$PROJECT_DIR$/source/_posts/hello-world.md" />
-        <option value="$PROJECT_DIR$/source/about/index.md" />
         <option value="$PROJECT_DIR$/source/_posts/hexo-github多端同步.md" />
         <option value="$PROJECT_DIR$/source/_posts/laravel知识点总结.md" />
-        <option value="$PROJECT_DIR$/source/_posts/laravel-授权策略.md" />
-        <option value="$PROJECT_DIR$/themes/maupassant/_config.yml" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/source/about/index.md" />
+        <option value="$PROJECT_DIR$/source/_posts/laravel-授权策略.md" />
+        <option value="$PROJECT_DIR$/source/history/index.md" />
+        <option value="$PROJECT_DIR$/themes/maupassant/_config.yml" />
       </list>
     </option>
   </component>
@@ -240,6 +205,12 @@
             <path>
               <item name="shencaixyz.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="shencaixyz.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="history" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shencaixyz.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shencaixyz.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -301,7 +272,7 @@
       <workItem from="1557410471469" duration="1353000" />
       <workItem from="1557415679977" duration="1811000" />
       <workItem from="1557451946578" duration="1000" />
-      <workItem from="1557451960612" duration="3403000" />
+      <workItem from="1557451960612" duration="4904000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1557410670037</created>
@@ -317,17 +288,23 @@
       <option name="project" value="LOCAL" />
       <updated>1557410966703</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix">
+      <created>1557455882849</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557455882849</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18048000" />
+    <option name="totallyTimeSpent" value="19549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1705757" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1705757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -340,7 +317,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -387,16 +364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/about/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="200">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -404,16 +371,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/laravel授权策略md" />
-    <entry file="file://$PROJECT_DIR$/source/_posts/laravel-授权策略.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/hexo-github多端同步.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -447,13 +404,6 @@
     <entry file="file://$PROJECT_DIR$/themes/maupassant/.travis.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -461,20 +411,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/maupassant/_config.yml">
+    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-111">
-          <caret line="65" column="7" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="7" />
+        <state relative-caret-position="102">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="10" selection-start-column="10" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/about/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/2019/05/08/hexo-github多端同步/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="1139" selection-start-column="1085" selection-end-column="1139" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#2;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#3;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#4;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/laravel-授权策略.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/history/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/maupassant/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
         </state>
       </provider>
     </entry>
