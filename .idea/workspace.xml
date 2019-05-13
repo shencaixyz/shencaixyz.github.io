@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3868b70a-0a49-414f-9d9a-c81f38d95001" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,22 +10,53 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1679846179">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Vagrantfile" value="1" />
+          <entry key="md" value="2" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_posts/laravel-利用模型工厂和数据填充生成假数据.md">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/HTTP状态码.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="380">
-                <caret line="165" selection-start-line="165" selection-end-line="165" />
-                <folding>
-                  <element signature="e#6#26#0" expanded="true" />
-                  <element signature="e#6#26#0" expanded="true" />
-                  <element signature="e#6#37#0" expanded="true" />
-                  <element signature="e#6#37#0" expanded="true" />
-                </folding>
+              <first_editor relative-caret-position="306">
+                <caret line="18" selection-start-line="18" selection-end-line="18" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/maupassant/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="46" column="47" lean-forward="true" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -64,18 +95,27 @@
         <option value="$PROJECT_DIR$/source/history/index.md" />
         <option value="$PROJECT_DIR$/themes/maupassant/layout/timeline.pug" />
         <option value="$PROJECT_DIR$/source/about/index.md" />
-        <option value="$PROJECT_DIR$/themes/maupassant/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/laravel-mix解决-npm-install-各种报错.md" />
         <option value="$PROJECT_DIR$/source/_posts/laravel-利用模型工厂和数据填充生成假数据.md" />
+        <option value="$PROJECT_DIR$/source/_posts/HTTP状态码.md" />
+        <option value="$PROJECT_DIR$/themes/maupassant/_config.yml" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="2">
-    <option name="width" value="1920" />
-    <option name="height" value="1030" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="147" />
+    <option name="y" value="40" />
+    <option name="width" value="1080" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -83,38 +123,45 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="scblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scblog" type="462c0819:PsiDirectoryNode" />
+              <item name="shencaixyz.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shencaixyz.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="scblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scblog" type="462c0819:PsiDirectoryNode" />
+              <item name="shencaixyz.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shencaixyz.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="scblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scblog" type="462c0819:PsiDirectoryNode" />
+              <item name="shencaixyz.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shencaixyz.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="scblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scblog" type="462c0819:PsiDirectoryNode" />
+              <item name="shencaixyz.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shencaixyz.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="about" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="scblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scblog" type="462c0819:PsiDirectoryNode" />
+              <item name="shencaixyz.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shencaixyz.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="history" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shencaixyz.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shencaixyz.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="scblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scblog" type="462c0819:PsiDirectoryNode" />
+              <item name="shencaixyz.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shencaixyz.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="maupassant" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -122,7 +169,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,12 +260,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24884000" />
+    <option name="totallyTimeSpent" value="26438000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1030" extended-state="2" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17518637" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14179105" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -232,7 +279,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32814237" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3257329" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -354,13 +401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/maupassant/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1082">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/laravel-授权策略.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -381,29 +421,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/laravel-利用模型工厂和数据填充生成假数据.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="380">
+            <caret line="165" selection-start-line="165" selection-end-line="165" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/laravel-mix解决-npm-install-各种报错.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
+          <first_editor relative-caret-position="51">
             <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/laravel-利用模型工厂和数据填充生成假数据.md">
+    <entry file="file://$USER_HOME$/Homestead/Vagrantfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/HTTP状态码.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="380">
-            <caret line="165" selection-start-line="165" selection-end-line="165" />
-            <folding>
-              <element signature="e#6#26#0" expanded="true" />
-              <element signature="e#6#26#0" expanded="true" />
-              <element signature="e#6#37#0" expanded="true" />
-              <element signature="e#6#37#0" expanded="true" />
-            </folding>
+          <first_editor relative-caret-position="306">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/maupassant/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="46" column="47" lean-forward="true" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
         </state>
       </provider>
     </entry>
