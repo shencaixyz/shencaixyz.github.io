@@ -49,6 +49,12 @@ make install
 2. ashen 为当前用户名
 3. ./configure --with-php-config=/usr/bin/php-config 的 /usr/bin/ 路径通过 which php 获取详细路径
 
+#### 一键安装
+
+```
+sudo pecl install swoole
+```
+
 #### 修改php.ini
 
 进入 /etc/php/7.2/cli/php.ini,添加 extension=swoole.so
